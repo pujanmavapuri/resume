@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bona+Nova+SC:ital,wght@0,400;0,700;1,400&display=swap'); 
+h1{
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  color: #ffffff;
+}
+#h{
+    color: #ffffff;
+}
+#b{
+  background-color: lightblue;
+  font-family: "Bona Nova SC", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+#p{
+    background-color: plum  ;
+}
+li:hover{
+    background-color: linen;
+    border-radius: 20px;
+    size: 20px;
+
+}
+h2{
+    font-style: italic;
+    color: blueviolet;
+}
+h5{
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  color: #ffffff;
+}
+#d{
+  background-color: black;
+  font:white;
+}
+i{
+  font-size: 30px;
+}
+i:hover{
+  font-size: 40px ;
+  transition: 1s;
+}
